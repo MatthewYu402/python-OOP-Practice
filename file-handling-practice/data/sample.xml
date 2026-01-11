@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog generated_at="2025-11-01T12:00:00Z">
+  <product sku="BK-001">
+    <name>Python Patterns</name>
+    <department>Books</department>
+    <price_usd>29.99</price_usd>
+  </product>
+  <product sku="EL-314">
+    <name>Noise-Cancelling Headphones</name>
+    <department>Electronics</department>
+    <price_usd>199.00</price_usd>
+  </product>
+</catalog>

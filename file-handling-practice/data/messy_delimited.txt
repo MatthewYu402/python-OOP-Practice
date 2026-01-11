@@ -1,0 +1,7 @@
+user_id|name|age|country
+1001|Alice Nguyen|29|US
+1002|Ben Wright||CA
+1003|Chloe Martin|27|FR
+bad_row_missing_fields
+1004|Diego López|31|MX
+1005|Esha Patel|26|IN

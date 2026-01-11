@@ -1,0 +1,17 @@
+Meeting Notes - Acme Analytics (Q4)
+==================================
+Date: 2025-10-14
+
+Action items:
+- Follow up with vendor about invoice INV-1042.
+- Update dashboard KPIs (conversion_rate, churn_rate).
+- Investigate spike in 500 errors on 2025-10-12.
+
+Contacts:
+  Priya Shah <priya.shah@acme.test>
+  Diego López <diego.lopez@acme.test>
+  Support Team <support@acme.test>
+
+Random thoughts:
+"If it’s not measured, it can’t be improved."
+Remember to export results as CSV for Finance.
