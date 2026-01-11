@@ -1,0 +1,9 @@
+Cities and names:
+- Guadalajara (Diego López)
+- Montréal (Ben Wright)
+- São Paulo (Gabriel Silva)
+- 東京 (Hana Suzuki)
+
+Common pitfalls:
+- Encoding mismatches (UTF-8 vs latin-1)
+- Hidden whitespace like non-breaking spaces

@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "user_id": 1001,
+      "name": "Alice Nguyen",
+      "emails": ["alice.nguyen@acme.test"],
+      "address": {"city": "Seattle", "country": "US"},
+      "preferences": {"newsletter": true, "sms": false}
+    },
+    {
+      "user_id": 1004,
+      "name": "Diego López",
+      "emails": ["diego.lopez@acme.test", "d.lopez@acme.test"],
+      "address": {"city": "Guadalajara", "country": "MX"},
+      "preferences": {"newsletter": false, "sms": true}
+    },
+    {
+      "user_id": 1006,
+      "name": "Farah Khan",
+      "emails": ["farah.khan@acme.test"],
+      "address": {"city": "London", "country": "GB"},
+      "preferences": {"newsletter": true, "sms": true}
+    }
+  ]
+}

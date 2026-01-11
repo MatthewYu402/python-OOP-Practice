@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-11-01T12:00:00Z",
+  "currency": "USD",
+  "products": [
+    {
+      "sku": "BK-001",
+      "name": "Python Patterns",
+      "category": {"department": "Books", "topic": "Programming"},
+      "price_usd": 29.99,
+      "tags": ["python", "design", "oop"],
+      "in_stock": true
+    },
+    {
+      "sku": "ST-042",
+      "name": "Stainless Travel Mug",
+      "category": {"department": "Home", "topic": "Kitchen"},
+      "price_usd": 18.5,
+      "tags": ["mug", "insulated"],
+      "in_stock": true
+    },
+    {
+      "sku": "EL-314",
+      "name": "Noise-Cancelling Headphones",
+      "category": {"department": "Electronics", "topic": "Audio"},
+      "price_usd": 199.0,
+      "tags": ["audio", "travel"],
+      "in_stock": false
+    }
+  ]
+}

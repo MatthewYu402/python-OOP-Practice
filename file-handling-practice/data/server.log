@@ -1,0 +1,7 @@
+2025-10-12T09:14:03Z INFO  request_id=abc123 method=GET path=/pricing status=200 ms=34
+2025-10-12T09:15:22Z INFO  request_id=def456 method=POST path=/api/checkout status=201 ms=210
+2025-10-12T09:18:07Z ERROR request_id=ghi789 method=GET path=/api/report status=504 ms=30000
+2025-10-12T11:04:58Z INFO  request_id=jkl012 method=GET path=/docs status=200 ms=12
+2025-10-13T10:02:10Z WARN  request_id=mno345 method=POST path=/api/checkout status=402 ms=98
+2025-10-13T10:05:01Z ERROR request_id=pqr678 method=POST path=/api/checkout status=500 ms=430
+2025-10-13T10:07:44Z INFO  request_id=stu901 method=GET path=/health status=200 ms=3

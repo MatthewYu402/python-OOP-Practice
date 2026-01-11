@@ -1,0 +1,11 @@
+user_id,name,email,signup_date,country,age
+1001,Alice Nguyen,alice.nguyen@acme.test,2025-01-05,US,29
+1002,Ben Wright,ben.wright@acme.test,2025-01-20,CA,34
+1003,Chloe Martin,chloe.martin@acme.test,2025-02-11,FR,27
+1004,Diego López,diego.lopez@acme.test,2025-02-18,MX,31
+1005,Esha Patel,esha.patel@acme.test,2025-03-02,IN,26
+1006,Farah Khan,farah.khan@acme.test,2025-03-15,GB,,
+1007,Gabriel Silva,gabriel.silva@acme.test,2025-04-01,BR,41
+1008,Hana Suzuki,hana.suzuki@acme.test,2025-04-09,JP,22
+1009,Ibrahim Hassan,ibrahim.hassan@acme.test,2025-05-27,EG,38
+1010,Julia Chen,julia.chen@acme.test,2025-06-05,US,30
